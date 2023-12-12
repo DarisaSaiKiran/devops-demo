@@ -2,8 +2,6 @@ Hello
 Welcome to DevOps
 Bangalore
 Analyst
-<<<<<<< HEAD
 2 years of experience
-=======
 Capgemini
->>>>>>> 5433fa6a60b13fbd9c089c27a49828fd9e863bfb
+Skills: JAVA, Springboot,ReactJS
